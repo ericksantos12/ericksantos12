@@ -6,7 +6,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericksantos12&count_private=true&hide_title=true&hide=issues,stars&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-Sou iniciante na área de desenvolvimento e faço curso superior de tecnologia em Desenvolvimento de Software
+Sou iniciante na área de desenvolvimento e faço curso superior de tecnologia em Desenvolvimento de Software Multiplataforma
 
 📫 Como entrar em contato comigo: 
 
