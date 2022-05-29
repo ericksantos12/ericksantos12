@@ -6,11 +6,11 @@
 <div align="center">
 
 <picture>
-    <source height="130em" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ericksantos12&show_icons=true&theme=github_dark&include_all_commits=true&hide=stars">
+    <source height="150em" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ericksantos12&show_icons=true&theme=github_dark&include_all_commits=true&hide=stars">
     <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://github-readme-stats.vercel.app/api?username=ericksantos12&show_icons=true&include_all_commits=true&hide=stars">
 </picture>
 <picture>
-    <source height="130em" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ericksantos12&layout=compact&langs_count=7&theme=github_dark">
+    <source height="150em" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ericksantos12&layout=compact&langs_count=7&theme=github_dark">
     <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericksantos12&layout=compact&langs_count=7">
 </picture>
 
