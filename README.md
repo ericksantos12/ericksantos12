@@ -21,6 +21,8 @@ Sou iniciante na área de desenvolvimento e faço curso superior de tecnologia e
 
  #
 ## 🔗 Links
+[![kata](https://www.codewars.com/users/ericksantos12/badges/small)](https://www.codewars.com/users/ericksantos12)
+
 [![twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ErickSantosS12)
 [![linkedin](https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ericksantos12/)
 [![instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/erickssousa12/)
