@@ -64,23 +64,6 @@ Sou iniciante na área de desenvolvimento e faço curso superior de tecnologia e
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" width="50" height="50" />
 </a> -->
 </div>
-          
-
-
-
-
-
-
-
-
-
-
-          
-
-
-
-          
-
 
 #
 ## 🔗 Links
