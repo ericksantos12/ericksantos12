@@ -19,7 +19,72 @@ Sou iniciante na área de desenvolvimento e faço curso superior de tecnologia e
 
 </div>
 
- #
+#
+
+## 🧐 Languages and Tools
+
+<div align="center">
+<a href='https://developer.mozilla.org/en-US/docs/Glossary/HTML5'>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
+</a>
+<a href='https://developer.mozilla.org/en-US/docs/Web/CSS'>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" />
+</a>
+<!-- <a href='https://tailwindcss.com'>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50" height="50" />
+</a>
+<a href='https://getbootstrap.com'>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50" /> -->
+</a>
+<a href='https://developer.mozilla.org/en-US/docs/Web/JavaScript'>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" />
+</a>
+<a href='https://nodejs.org/en/'>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50"/>
+</a>
+<a href='https://www.npmjs.com'>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="50" height="50" />
+</a>
+
+<a href='https://www.python.org'>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" />
+</a>
+<a href='https://www.java.com/en/'>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" />
+</a>
+<a href='https://www.mysql.com'>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" />
+</a>
+<a href='https://git-scm.com'>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" />
+</a>
+
+<a href='https://www.adobe.com/products/photoshop.html'>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" width="50" height="50" />
+</a>
+<a href='https://www.adobe.com/products/aftereffects.html'>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" width="50" height="50" />
+</a>
+</div>
+          
+
+
+
+
+
+
+
+
+
+
+          
+
+
+
+          
+
+
+#
 ## 🔗 Links
 [![kata](https://www.codewars.com/users/ericksantos12/badges/small)](https://www.codewars.com/users/ericksantos12)
 
