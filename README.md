@@ -45,7 +45,6 @@ Sou iniciante na área de desenvolvimento e faço curso superior de tecnologia e
 <a href='https://www.npmjs.com'>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="50" height="50" />
 </a>
-
 <a href='https://www.python.org'>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" />
 </a>
@@ -58,13 +57,12 @@ Sou iniciante na área de desenvolvimento e faço curso superior de tecnologia e
 <a href='https://git-scm.com'>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" />
 </a>
-
-<a href='https://www.adobe.com/products/photoshop.html'>
+<!-- <a href='https://www.adobe.com/products/photoshop.html'>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" width="50" height="50" />
 </a>
-<a href='https://www.adobe.com/products/aftereffects.html'>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" width="50" height="50" />
-</a>
+<a href='https://www.adobe.com/products/premiere.html'>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" width="50" height="50" />
+</a> -->
 </div>
           
 
