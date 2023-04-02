@@ -1,6 +1,5 @@
 # Olá, eu me chamo Erick! 👋
 
-
 ## 👨‍💻 Sobre mim
 
 <div align="center">
@@ -13,15 +12,11 @@
     <source height="150em" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ericksantos12&layout=compact&langs_count=7&theme=github_dark">
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericksantos12&layout=compact&langs_count=7">
 </picture>
-
-<br>
-Sou iniciante na área de desenvolvimento e faço curso superior de tecnologia em Desenvolvimento de Software Multiplataforma
-
 </div>
 
-#
-
-## 🧐 Languages and Tools
+> Sou estudante de tecnologia em Desenvolvimento de Software Multiplataforma em busca de aprender e crescer na área de desenvolvimento. Tenho um perfil iniciante, mas estou sempre buscando novos desafios e oportunidades para aprimorar minhas habilidades e conhecimentos.
+---
+## 🧐 Tech Stack
 
 <div align="center">
 <a href='https://developer.mozilla.org/en-US/docs/Glossary/HTML5'>
@@ -65,7 +60,16 @@ Sou iniciante na área de desenvolvimento e faço curso superior de tecnologia e
 </a> -->
 </div>
 
-#
+---
+
+## 🎵 Musica
+
+<div align="center">
+<a href="https://spotify-github-profile.vercel.app/api/view?uid=ericksousa12&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=ericksousa12&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=true&bar_color=4b8dda&bar_color_cover=false"></a>
+</div>
+
+---
+
 ## 🔗 Links
 [![kata](https://www.codewars.com/users/ericksantos12/badges/small)](https://www.codewars.com/users/ericksantos12)
 
