@@ -15,6 +15,16 @@
 </div>
 
 > Sou estudante de tecnologia em Desenvolvimento de Software Multiplataforma em busca de aprender e crescer na área de desenvolvimento. Tenho um perfil iniciante, mas estou sempre buscando novos desafios e oportunidades para aprimorar minhas habilidades e conhecimentos.
+<div align="center">
+<table>
+    <tr>
+        <th>🎵 Tocando agora</th>
+    </tr>
+    <tr>
+        <td><a href="https://spotify-github-profile.vercel.app/api/view?uid=ericksousa12&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=ericksousa12&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=true&bar_color=4b8dda&bar_color_cover=false"></a></td>
+    </tr>
+</table>
+</div>
 
 ## 🧐 Tech Stack
 
@@ -59,16 +69,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" width="50" height="50" />
 </a> -->
 </div>
-
-
-
-## 🎵 Musica
-
-<div align="center">
-<a href="https://spotify-github-profile.vercel.app/api/view?uid=ericksousa12&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=ericksousa12&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=true&bar_color=4b8dda&bar_color_cover=false"></a>
-</div>
-
-
 
 ## 🔗 Links
 [![kata](https://www.codewars.com/users/ericksantos12/badges/small)](https://www.codewars.com/users/ericksantos12)
