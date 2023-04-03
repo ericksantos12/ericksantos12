@@ -14,7 +14,10 @@
 </picture>
 </div>
 
-> Sou estudante de tecnologia em Desenvolvimento de Software Multiplataforma em busca de aprender e crescer na área de desenvolvimento. Tenho um perfil iniciante, mas estou sempre buscando novos desafios e oportunidades para aprimorar minhas habilidades e conhecimentos.
+<br>
+
+Sou estudante de tecnologia em Desenvolvimento de Software Multiplataforma em busca de aprender e crescer na área de desenvolvimento. Tenho um perfil iniciante, mas estou sempre buscando novos desafios e oportunidades para aprimorar minhas habilidades e conhecimentos.
+
 <div align="center">
 <table>
     <tr>
