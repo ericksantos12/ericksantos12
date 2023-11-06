@@ -3,7 +3,7 @@
 <h1 align="center">Olá, eu sou o Erick!👋</h1>
 
 <div align="center">
-    <img style="border-radius: 50%;" width="200px" src="https://files.catbox.moe/2ywa5r.png">
+    <img width="200px" src="https://files.catbox.moe/7ixn2b.png">
 </div>
 
 <br>
