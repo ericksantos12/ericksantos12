@@ -1,7 +1,12 @@
 
 
-<h1 align="center">Bem vindo! 👋</h1>
+<h1 align="center">Olá, eu sou o Erick!👋</h1>
 
+<div align="center">
+    <img style="border-radius: 50%;" width="200px" src="https://files.catbox.moe/2ywa5r.png">
+</div>
+
+<br>
 <h2 align="center">👨‍💻 Sobre Mim</h2>
 
 
@@ -35,12 +40,12 @@ Languages: Python, Javascript
 <h2 align="center">📉 Github Stats</h2>
 <div align="center">
 <picture>
-    <source height="150em" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ericksantos12&show_icons=true&theme=github_dark&include_all_commits=true&hide=stars">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ericksantos12&show_icons=true&include_all_commits=true&hide=stars">
+    <source height="150em" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ericksantos12&show_icons=true&theme=catppuccin_mocha&include_all_commits=true&hide=stars">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ericksantos12&show_icons=true&include_all_commits=true&hide=stars&theme=catppuccin_latte">
 </picture>
 <picture>
-    <source height="150em" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ericksantos12&layout=compact&langs_count=7&theme=github_dark">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericksantos12&layout=compact&langs_count=7">
+    <source height="150em" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ericksantos12&layout=compact&langs_count=7&theme=catppuccin_mocha">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericksantos12&layout=compact&langs_count=7&theme=catppuccin_latte">
 </picture>
 </div>
 
