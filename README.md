@@ -32,7 +32,7 @@ Languages: Python, Javascript
 
 <h2 align="center">🧐 Tech Stack</h2>
 <div align="center">
-    <a href='https://skillicons.dev'><img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python,java,mysql,git,vscode,linux,githubactions,github&perline=6"></a>
+    <a href='https://skillicons.dev'><img src="https://skillicons.dev/icons?i=html,css,ts,nodejs,prisma,svelte,python,java,mysql,git,vscode,linux,githubactions,github&perline=6"></a>
 </div>
 
 <!--  -->
