@@ -51,6 +51,13 @@ Languages: Python, Javascript
 
 <!--  -->
 
+<h2 align="center">🎵 Spotify</h2>
+<div align="center">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=ericksousa12" alt="Spotify Recent History">
+</div>
+
+<!--  -->
+
 <h2 align="center">🐍 Cobrinha</h2>
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ericksantos12/ericksantos12/output/github-contribution-grid-snake-dark.svg">
